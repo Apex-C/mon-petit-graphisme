@@ -46,6 +46,10 @@ img.banner--image{
     justify-content: center;
     align-items: center;
 }
+.banner--logo p img
+{
+    height:80px;
+}
 h1{
     font-weight: 500;
     color: white;
